@@ -147,7 +147,7 @@ const Encampasses: FunctionComponent = () => {
             <Content>
                 <Inner>
                     <div>
-                        <h1>What's Around?</h1>
+                        <h1>What`&apos;`s Around?</h1>
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod</p>
                     </div>
                     <div>

@@ -142,27 +142,27 @@ const Services = () => {
                 <Slider {...settings}>
                     <Item>
                         {/* <h3>1</h3> */}
-                        <Image src="/images/couple-bed1.jpg" width={"380.67px"} height="380.67" />
+                        <Image src="/images/couple-bed1.jpg" width={"380.67px"} height="380.67" alt="couples bed" />
                     </Item>
                     <Item>
                         {/* <h3>2</h3> */}
-                        <Image src="/images/image-pool.jpg" width={"380.67px"} height="380.67" />
+                        <Image src="/images/image-pool.jpg" width={"380.67px"} height="380.67" alt="swimming pool" />
                     </Item>
                     <Item>
                         {/* <h3>3</h3> */}
-                        <Image src="/images/park.jpg" width={"380.67px"} height="380.67" />
+                        <Image src="/images/park.jpg" width={"380.67px"} height="380.67" alt="chilus park" />
                     </Item>
                     <Item>
                         {/* <h3>1</h3> */}
-                        <Image src="/images/couple-bed1.jpg" width={"380.67px"} height="380.67" />
+                        <Image src="/images/couple-bed1.jpg" width={"380.67px"} height="380.67" alt="couples bed" />
                     </Item>
                     <Item>
                         {/* <h3>2</h3> */}
-                        <Image src="/images/image-pool.jpg" width={"380.67px"} height="380.67" />
+                        <Image src="/images/image-pool.jpg" width={"380.67px"} height="380.67" alt="swimming pool" />
                     </Item>
                     <Item>
                         {/* <h3>3</h3> */}
-                        <Image src="/images/park.jpg" width={"380.67px"} height="380.67" />
+                        <Image src="/images/park.jpg" width={"380.67px"} height="380.67" alt="chilus park" />
                     </Item>
                 </Slider>
             </PricingSlider>

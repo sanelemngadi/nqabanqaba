@@ -332,7 +332,7 @@ const Testimonials: FunctionComponent = () => {
 
         // setItems([reviews[prev], reviews[count], reviews[next]]);
 
-    }, [count, len, reviews, setItems, setPrev, setNext]);
+    }, [count, len, setItems, setPrev, setNext]);
 
     useEffect(() => {
         // console.log("prev: ", prev, " curr: ", count, " next ", next);
@@ -350,7 +350,7 @@ const Testimonials: FunctionComponent = () => {
             setRightControlState(false);
         }
 
-    }, [prev, count, next, reviews, setItems]);
+    }, [prev, count, next, len, setItems]);
 
     // console.log("img: ", items);
 

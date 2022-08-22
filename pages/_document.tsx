@@ -35,7 +35,7 @@ export default class MyDocument extends Document {
             <Html>
                 <Head>
                     <style>
-                        @import url('https://fonts.googleapis.com/css2?family=Anek+Bangla&family=Blinker:wght@400;700;900&display=swap');
+                        @import url(`&apos;`https://fonts.googleapis.com/css2?family=Anek+Bangla{"&"}family=Blinker:wght@400;700;900{"&"}display=swap`&apos;`);
                     </style>
                 </Head>
                 <body>
